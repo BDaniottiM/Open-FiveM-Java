@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fivem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fivem_jar</output-path>
+    <root id="archive" name="Fivem.jar">
+      <element id="module-output" name="Fivem" />
+    </root>
+  </artifact>
+</component>
